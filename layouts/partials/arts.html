@@ -1,0 +1,32 @@
+<div class="ui stackable very relaxed grid container">
+  <div class="fourteen wide center aligned centered column">
+    <h1 class="ui header">
+     Mis Articulos Recientes
+    </h1>
+  </div>
+  <div class="fourteen wide left aligned centered column">
+    <div class="ui centered cards">
+
+      {{ range $index, $page := where .Data.Pages "Section" "articulo" }}
+        {{ if le $index 2 }}
+
+            {{ partial "art-cards.html" . }}    
+        {{ end }}
+      {{ end }}
+      {{ range $index, $page := where .Data.Pages "Section" "articulo" }}
+        {{ if ge $index 3 }}
+            {{ if le $index 5 }}
+              {{ partial "art-cards.html" . }}
+            {{ end }}    
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="fourteen wide center aligned centered column">
+    <h1 class="ui header">
+     <a href="/articulo">Ver Todos</a>
+    </h1>
+  </div>
+   
+   
+ </div>
