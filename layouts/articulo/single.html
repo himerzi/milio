@@ -1,0 +1,15 @@
+{{ partial "top.html" . }}
+{{ partial "header.html" . }}
+{{ partial "fb-root.html" .}}
+  <div class="ui vertical stripe segment">
+	<div class="ui main text container">
+	    <h1 class="ui header">{{ .Title }}
+	    	<div class="sub header">{{ .Date.Format "2006-01-02"}}</div>
+	    	<div class="sub header">Publicado en {{ .Params.medio }}</div>
+
+	    </h1>
+	    {{ partial "social-share.html" . }}
+	    {{ .Content }}
+	</div>
+  </div>
+{{ partial "bottom.html" . }}

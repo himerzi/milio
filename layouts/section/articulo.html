@@ -1,0 +1,15 @@
+{{ partial "top.html" . }}
+{{ partial "header.html" . }}
+  <div class="ui vertical stripe segment">
+  	<div class="ui stackable very relaxed text container">
+		<div class="ui items">
+			{{ range $index, $page := where .Data.Pages "Section" "articulo" }}
+
+
+			      {{ .Render "summary" }}    
+			  
+			{{ end }}
+		</div>
+	 </div>
+  </div>
+{{ partial "bottom.html" . }}
