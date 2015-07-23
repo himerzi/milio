@@ -1,0 +1,13 @@
+          <div class="ui card" href="{{ .RelPermalink }}" >
+            <div class="content">
+              <div class="header"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+              <div class="meta">
+                <span class="date">{{ .Date.Format "02-01-2006"}}</span>
+              </div>
+            </div>
+            <div class="content">
+              <div class="description">
+              {{ .Summary }} <p><a href="{{ .RelPermalink }}">lee más...</a></p>
+              </div>
+            </div>
+          </div>
