@@ -9,11 +9,11 @@
 
 
 
-<script src="http://himerzi.github.io/milio/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="http://localhost:1313/milio/bower_components/jquery/dist/jquery.min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="http://himerzi.github.io/milio/bower_components/semantic-ui/dist/semantic.min.css">
-<script src="http://himerzi.github.io/milio/bower_components/semantic-ui/dist/semantic.min.js"></script>
-<link rel="stylesheet" href="http://himerzi.github.io/milio/css/all.css">
+<link rel="stylesheet" type="text/css" href="http://localhost:1313/milio/bower_components/semantic-ui/dist/semantic.min.css">
+<script src="http://localhost:1313/milio/bower_components/semantic-ui/dist/semantic.min.js"></script>
+<link rel="stylesheet" href="http://localhost:1313/milio/css/all.css">
 
 <script>
 $(document)
@@ -49,8 +49,8 @@ $(document)
 
     <div class="ui container">
       <div class="ui large secondary borderless menu">
-        <a class="active item" href="http://himerzi.github.io/milio/">Inicio</a>
-        <a class="item" href="http://himerzi.github.io/milio/articulo/">Articulos</a>
+        <a class="active item" href="http://localhost:1313/milio/">Inicio</a>
+        <a class="item" href="http://localhost:1313/milio/articulo/">Articulos</a>
     
       </div>
     </div>
@@ -93,6 +93,9 @@ $(document)
 	</div>
   </div>
 
-  </body>
+  <script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 
