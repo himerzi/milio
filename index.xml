@@ -2,47 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emilio Lezama</title>
-    <link>http://himerzi.github.io/milio/</link>
+    <link>http://localhost:1313/milio/</link>
     <description>Recent content on Emilio Lezama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jun 2015 19:00:22 -0500</lastBuildDate>
-    <atom:link href="http://himerzi.github.io/milio/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Titulo</title>
-      <link>http://himerzi.github.io/milio/articulo/test2/</link>
-      <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
-      
-      <guid>http://himerzi.github.io/milio/articulo/test2/</guid>
-      <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
-
-&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
-
-&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Titulo</title>
-      <link>http://himerzi.github.io/milio/articulo/test3/</link>
-      <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
-      
-      <guid>http://himerzi.github.io/milio/articulo/test3/</guid>
-      <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
-
-&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
-
-&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://localhost:1313/milio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>La justicia mexicana y la teoría de la piñata</title>
-      <link>http://himerzi.github.io/milio/articulo/la-justicia-mexicana/</link>
+      <link>http://localhost:1313/milio/articulo/la-justicia-mexicana/</link>
       <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
       
-      <guid>http://himerzi.github.io/milio/articulo/la-justicia-mexicana/</guid>
+      <guid>http://localhost:1313/milio/articulo/la-justicia-mexicana/</guid>
       <description>&lt;p&gt;La justicia mexicana muchas veces existe al margen de la realidad. Los corruptos siguen libres, los inocentes están presos y la influencia y riqueza son mejores argumentos para evitar el castigo que las pruebas. En una conferencia dictada en el Colegio Nacional, Lydia Cacho recordó la historia de los jueces que ordenaron la libertad del presunto asesino de la hija de Marisela Escobedo. El escándalo mediático que suscitó la liberación del presunto asesino puso a los jueces que ordenaron la liberación en el ojo público. Ante un posible juicio a los jueces, estos pidieron asilo en los Estados Unidos. Su argumento era sencillo: Como en México la justicia está sometida a la voluntad del poder, no confiaban en el sistema de justicia mexicano. Pocas historias son más ilustrativas del sistema de justicia en México: El juez que no confía en el propio sistema de justicia que representa y encarna.&lt;/p&gt;
 
 &lt;p&gt;Tradicionalmente la justicia ha sido representada como una mujer con un antifaz sobre los ojos, para denotar imparcialidad, y una balanza y una espada en las manos. Más que una mujer representando la justicia ciega, en México la justicia es el niño con el antifaz que está tratando de pegarle a la piñata; pretende no poder ver, pero por el resquicio de la tela observa su objetivo. Esto ocurre debido a que la justicia se somete a la voluntad política y, por ello, obedece a intereses de esa índole. En 2004, el Presidente Vicente Fox quiso allanar el camino para la continuidad del PAN en la presidencia. Para ello era necesario eliminar al político más popular de aquel momento: el jefe de gobierno del Distrito Federal. Para ello, el presidente inventó un caso, generó presión, y buscó que se desaforara y enjuiciara a Andrés Manuel López Obrador. El objetivo era que López Obrador acabara en la cárcel, anulando así sus aspiraciones presidenciales. No fue la justicia lo que impidió este arrebato presidencial sino la indignación ciudadana.&lt;/p&gt;
@@ -59,10 +31,10 @@
     
     <item>
       <title>Titulo</title>
-      <link>http://himerzi.github.io/milio/articulo/test/</link>
+      <link>http://localhost:1313/milio/articulo/test/</link>
       <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
       
-      <guid>http://himerzi.github.io/milio/articulo/test/</guid>
+      <guid>http://localhost:1313/milio/articulo/test/</guid>
       <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
 
 &lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
@@ -73,10 +45,10 @@
     
     <item>
       <title>Titulo</title>
-      <link>http://himerzi.github.io/milio/articulo/test4/</link>
+      <link>http://localhost:1313/milio/articulo/test4/</link>
       <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
       
-      <guid>http://himerzi.github.io/milio/articulo/test4/</guid>
+      <guid>http://localhost:1313/milio/articulo/test4/</guid>
       <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
 
 &lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
@@ -87,10 +59,38 @@
     
     <item>
       <title>Titulo</title>
-      <link>http://himerzi.github.io/milio/articulo/test5/</link>
+      <link>http://localhost:1313/milio/articulo/test2/</link>
       <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
       
-      <guid>http://himerzi.github.io/milio/articulo/test5/</guid>
+      <guid>http://localhost:1313/milio/articulo/test2/</guid>
+      <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
+
+&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
+
+&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Titulo</title>
+      <link>http://localhost:1313/milio/articulo/test3/</link>
+      <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/milio/articulo/test3/</guid>
+      <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
+
+&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
+
+&lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Titulo</title>
+      <link>http://localhost:1313/milio/articulo/test5/</link>
+      <pubDate>Tue, 16 Jun 2015 19:00:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/milio/articulo/test5/</guid>
       <description>&lt;p&gt;Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París. Tengo una maestría en Políticas Públicas de la Universidad de París II y actualmente&lt;/p&gt;
 
 &lt;p&gt;soy becario Fulbright en el programa de Comunicación Global de la Elliott School en George Washington University. Desde 2009 soy el fundador y director ejecutivo de Los hijos de la Malinche, una compañía de medios digitales con la que gané el Premio Nacional de Comunicación José Pagés Llergo en 2012. Soy analista político para Ibero 90.9FM y editorialista sobre los mismos temas para Reporte Índigo y el Nouvel Observateur en Francia. Como escritor también he publicado en Liberatión! Reforma y Rolling Stone , así como de ficción y relatos cortos en Los hijos de la Malinche, Latin Times, la revista Opción y Libertimento. Conduje el programa de radio de Los hijos de la Malinche en el periódico Reforma de 2009 a2010 y produje y presenté el especial de televisión “Rumbo al 2012” en Efekto TV durante el verano de 2012. Mi columna &amp;ldquo;Desde el Panóptico &amp;rdquo; aparece cada semana en Reporte Índigo.&lt;/p&gt;
