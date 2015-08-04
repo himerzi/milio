@@ -17,13 +17,6 @@
             {{ partial "art-cards.html" . }}    
         {{ end }}
       {{ end }}
-      {{ range $index, $page := where .Data.Pages "Section" "articulo" }}
-        {{ if ge $index 3 }}
-            {{ if le $index 5 }}
-              {{ partial "art-cards.html" . }}
-            {{ end }}    
-        {{ end }}
-      {{ end }}
     </div>
   </div>
   <div class="fourteen wide center aligned centered column">
