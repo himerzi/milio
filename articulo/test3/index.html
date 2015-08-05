@@ -9,6 +9,7 @@
 
 
 
+<<<<<<< HEAD
 <script src="http://localhost:1313/milio/bower_components/jquery/dist/jquery.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://localhost:1313/milio/bower_components/semantic-ui/dist/semantic.min.css">
@@ -49,6 +50,39 @@
 
 </script>
 
+=======
+<script src="http://himerzi.github.io/milio/bower_components/jquery/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://himerzi.github.io/milio/bower_components/semantic-ui/dist/semantic.min.css">
+<script src="http://himerzi.github.io/milio/bower_components/semantic-ui/dist/semantic.min.js"></script>
+<link rel="stylesheet" href="http://himerzi.github.io/milio/css/all.css">
+
+<script>
+$(document)
+  .ready(function() {
+
+    
+    $('.masthead')
+      .visibility({
+        once: false,
+        onBottomPassed: function() {
+          $('.fixed.menu').transition('fade in');
+        },
+        onBottomPassedReverse: function() {
+          $('.fixed.menu').transition('fade out');
+        }
+      })
+    ;
+
+    
+    $('.ui.sidebar')
+      .sidebar('attach events', '.toc.item')
+    ;
+
+  })
+;
+</script>
+>>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <title>Emilio Lezama</title>
   </head>
   <body>
@@ -58,8 +92,13 @@
 
     <div class="ui container">
       <div class="ui large secondary borderless menu">
+<<<<<<< HEAD
         <a class="active item" href="http://localhost:1313/milio/">Inicio</a>
         <a class="item" href="http://localhost:1313/milio/articulo/">Articulos</a>
+=======
+        <a class="active item" href="http://himerzi.github.io/milio/">Inicio</a>
+        <a class="item" href="http://himerzi.github.io/milio/articulo/">Articulos</a>
+>>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     
       </div>
     </div>
@@ -102,9 +141,13 @@
 	</div>
   </div>
 
+<<<<<<< HEAD
   <script data-no-instant>document.write('<script src="http://'
         + (location.host || 'localhost').split(':')[0]
 		+ ':1313/livereload.js?mindelay=10"></'
         + 'script>')</script></body>
+=======
+  </body>
+>>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
 </html>
 
