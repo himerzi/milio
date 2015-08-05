@@ -1,5 +1,4 @@
 .menu a {
-<<<<<<< HEAD
     font-size: 14px;
     font-weight: 700 !important;
     text-transform: uppercase !important;
@@ -9,22 +8,10 @@
 }
 h2.subtitle {
     color: white;
-=======
-  font-size: 14px;
-  font-weight: 700 !important;
-  text-transform: uppercase !important;
-}
-.hidden.menu {
-  display: none;
-}
-h2.subtitle{
-  color: white;
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     letter-spacing: 0.05em;
     font-size: 14px !important;
 }
 .masthead.segment {
-<<<<<<< HEAD
     min-height: 373px;
     padding: 1em 0em;
 }
@@ -112,97 +99,4 @@ h2.subtitle{
 table > th {}
 .fb-like > span {
     vertical-align: baseline !important;
-=======
-  min-height: 373px;
-  padding: 1em 0em;
-}
-.masthead .logo.item img {
-  margin-right: 1em;
-}
-.masthead .ui.menu .ui.button {
-  margin-left: 0.5em;
-}
-.masthead h1.ui.header {
-  margin-top: 58px;
-  margin-bottom: 0em;
-  font-size: 72px;
-  font-weight: 700;
-    letter-spacing: 0.05em;
-  border: white solid 10px;
-}
-.masthead h2 {
-  font-size: 1.7em;
-  font-weight: normal;
-}
-.masthead{
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  background-blend-mode: normal; 
-  background-position: 50% 50%;
-  background-image: url(../img/mex2.jpg);
-}
-.ui.vertical.stripe {
-  padding: 8em 0em;
-}
-.ui.vertical.stripe h3 {
-  font-size: 2em;
-}
-.ui.vertical.stripe .button + h3,
-.ui.vertical.stripe p + h3 {
-  margin-top: 3em;
-}
-.ui.vertical.stripe .floated.image {
-  clear: both;
-}
-.ui.vertical.stripe p {
-  font-size: 1.33em;
-}
-.ui.vertical.stripe .horizontal.divider {
-  margin: 3em 0em;
-}
-
-.quote.stripe.segment {
-  padding: 0em;
-}
-.quote.stripe.segment .grid .column {
-  padding-top: 5em;
-  padding-bottom: 5em;
-}
-
-.footer.segment {
-  padding: 5em 0em;
-}
-
-.secondary.pointing.menu .toc.item {
-  display: none;
-}
-
-@media only screen and (max-width: 700px) {
-  .ui.fixed.menu {
-    display: none !important;
-  }
-  .secondary.pointing.menu .item,
-  .secondary.pointing.menu .menu {
-    display: none;
-  }
-  .secondary.pointing.menu .toc.item {
-    display: block;
-  }
-  .masthead.segment {
-    min-height: 350px;
-  }
-  .masthead h1.ui.header {
-    font-size: 2em;
-    margin-top: 1.5em;
-  }
-  .masthead h2 {
-    margin-top: 0.5em;
-    font-size: 1.5em;
-  }
-}
-
-.fb-like > span {
-  vertical-align: baseline !important;  
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
 }

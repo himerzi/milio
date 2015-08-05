@@ -2,66 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/</loc>
-=======
     <loc>http://himerzi.github.io/milio/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/test/</loc>
-=======
-    <loc>http://himerzi.github.io/milio/articulo/test2/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
-    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/test3/</loc>
-=======
-    <loc>http://himerzi.github.io/milio/articulo/test3/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
-    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/test4/</loc>
-=======
     <loc>http://himerzi.github.io/milio/articulo/la-justicia-mexicana/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/la-justicia-mexicana/</loc>
-=======
+    <loc>http://himerzi.github.io/milio/articulo/test3/</loc>
+    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://himerzi.github.io/milio/articulo/test2/</loc>
+    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://himerzi.github.io/milio/articulo/test/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/test2/</loc>
-=======
     <loc>http://himerzi.github.io/milio/articulo/test4/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/milio/articulo/test5/</loc>
-=======
     <loc>http://himerzi.github.io/milio/articulo/test5/</loc>
->>>>>>> 8a8388a1868d2e6ba9fbab0ced361c4341a2f99c
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
