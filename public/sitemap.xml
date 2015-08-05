@@ -18,22 +18,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/milio/articulo/test4/</loc>
-    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/milio/articulo/test2/</loc>
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/milio/articulo/test5/</loc>
+    <loc>http://localhost:1313/milio/articulo/test3/</loc>
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/milio/articulo/test3/</loc>
+    <loc>http://localhost:1313/milio/articulo/test4/</loc>
+    <lastmod>2015-06-16T19:00:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/milio/articulo/test5/</loc>
     <lastmod>2015-06-16T19:00:22-05:00</lastmod>
   </url>
   
