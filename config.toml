@@ -4,3 +4,11 @@ publishdir = "public"
 baseurl = "http://himerzi.github.io/milio/"
 languageCode = "en-us"
 title = "Emilio Lezama"
+
+[[menu.main]]
+    name = "inicio"
+    url = "/"
+    weight = -100
+[[menu.main]]
+    name = "articulos"
+    url = "/articulo/"

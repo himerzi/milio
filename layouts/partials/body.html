@@ -1,24 +1,10 @@
 <!-- Following Menu -->
-<div class="ui large top fixed menu transition hidden">
-    <div class="ui container">
-        <a class="active item" href="{{ .Site.BaseURL }}">Inicio</a>
-        <a class="item" href="{{ .Site.BaseURL }}articulo/">Articulos</a>
-        <div class="right menu">
-            <div class="item">
-                <a href="http://www.twitter.com/emiliolezama"> <i class="circular link large twitter icon"></i></a>
-            </div>
-            <div class="item">
-                <a href="mailto:emiliolezama@loshijosdelamalinche.com"> <i class="circular link large mail outline icon"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
+{{ partial "following-menu.html" . }}
 
 <!-- Page Contents -->
 
 <div class="ui vertical stripe segment">
-
-    {{ partial "arts.html" . }}
+    {{ partial "mailing-form.html" . }} {{ partial "arts.html" . }}
 
 </div>
 {{ partial "escribo-en.html" . }} {{ partial "footer.html" . }}
