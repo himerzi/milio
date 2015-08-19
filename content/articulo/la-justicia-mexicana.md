@@ -2,7 +2,7 @@
 date = "2015-06-16T19:00:22-05:00"
 title = "La justicia mexicana y la teoría de la piñata"
 medio = "El Universal"
-sinopsis = "Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París."
+sinopsis = "Un análisis del sistema de justicia mexicana y el caso Ebrard"
 +++
 
 La justicia mexicana muchas veces existe al margen de la realidad. Los corruptos siguen libres, los inocentes están presos y la influencia y riqueza son mejores argumentos para evitar el castigo que las pruebas.<!--more--> En una conferencia dictada en el Colegio Nacional, Lydia Cacho recordó la historia de los jueces que ordenaron la libertad del presunto asesino de la hija de Marisela Escobedo. El escándalo mediático que suscitó la liberación del presunto asesino puso a los jueces que ordenaron la liberación en el ojo público. Ante un posible juicio a los jueces, estos pidieron asilo en los Estados Unidos. Su argumento era sencillo: Como en México la justicia está sometida a la voluntad del poder, no confiaban en el sistema de justicia mexicano. Pocas historias son más ilustrativas del sistema de justicia en México: El juez que no confía en el propio sistema de justicia que representa y encarna.
