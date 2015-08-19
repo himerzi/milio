@@ -1,29 +1,24 @@
 <div class="ui stackable very relaxed grid container">
-  <div class="fourteen wide center aligned centered column">
-    <h1 class="ui icon header">
+    <div class="fourteen wide center aligned centered column">
+        <h1 class="ui icon header">
       <i class="newspaper icon"></i>
       <div class="content">
-        Mis Articulos Recientes
+        Mis Artículos Recientes
       </div>
      
     </h1>
-  </div>
-  <div class="fourteen wide left aligned centered column">
-    <div class="ui centered cards">
-
-      {{ range $index, $page := where .Data.Pages "Section" "articulo" }}
-        {{ if le $index 2 }}
-
-            {{ partial "art-cards.html" . }}    
-        {{ end }}
-      {{ end }}
     </div>
-  </div>
-  <div class="fourteen wide center aligned centered column">
-    <h1 class="ui header">
+    <div class="fourteen wide left aligned centered column">
+        <div class="ui centered cards">
+
+            {{ range $index, $page := where .Data.Pages "Section" "articulo" }} {{ if le $index 2 }} {{ partial "art-cards.html" . }} {{ end }} {{ end }}
+        </div>
+    </div>
+    <div class="fourteen wide center aligned centered column">
+        <h1 class="ui header">
      <a href="{{ .Site.BaseURL }}articulo">Ver Todos</a>
     </h1>
-  </div>
-   
-   
- </div>
+    </div>
+
+
+</div>

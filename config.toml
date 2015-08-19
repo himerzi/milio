@@ -1,7 +1,6 @@
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "http://himerzi.github.io/milio/"
 languageCode = "en-us"
 title = "Emilio Lezama"
 

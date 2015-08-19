@@ -100,3 +100,6 @@ table > th {}
 .fb-like > span {
     vertical-align: baseline !important;
 }
+div.articulo > p {
+    text-align: justify;
+}
