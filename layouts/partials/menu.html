@@ -1,6 +1,21 @@
 <div class="ui container">
     <div class="ui large secondary borderless menu">
         {{ $currentNode := . }} {{ range .Site.Menus.main }}
-        <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}} item" href="{{.URL}}">{{ .Name }}</a> {{ end }}
+        <a class="{{if or ($currentNode.IsMenuCurrent " main " .) ($currentNode.HasMenuCurrent "main " .) }} active{{end}} item" href="{{.URL}}">{{ .Name }}</a> {{ end }}
+        <div class="right menu">
+            <div class="item">
+                <a href="http://www.twitter.com/emiliolezama"><i class="black circular link large twitter icon"  href=""></i></a>
+            </div>
+            <div class="item">
+                <a href="mailto:emiliolezama@loshijosdelamalinche.com"> <i class="circular black link large mail outline icon"></i></a>
+            </div>
+            <div class="item">
+                <a href="http://eepurl.com/bqKrSn" target="_blank">
+                    <button class="ui primary button">
+                        Únete a mi lista de correo
+                    </button>
+                </a>
+            </div>
+        </div>
     </div>
 </div>

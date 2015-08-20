@@ -5,7 +5,18 @@
 	    	<div class="sub header">{{ .Date.Format "2006-01-02"}}</div>
 	    	<div class="sub header">Publicado en {{ .Params.medio }}</div>
 
-	    </h1> {{ partial "social-share.html" . }} {{ .Content }}
+	    </h1> {{ partial "social-share.html" . }}
+        <div class="ui  divider">
+
+        </div>
     </div>
+    <div class="ui text container">
+        {{ .Content }}
+        <div class="ui  divider">
+
+        </div>
+    </div>
+
+
 </div>
 {{ partial "bottom.html" . }}
