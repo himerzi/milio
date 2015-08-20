@@ -1,7 +1,10 @@
-+++ date = "2015-16-16T19:00:22-05:00" title = "El sistema nos odia" medio = "El Universal" sinopsis = "¿Por qué usamos la palabra "sistema para referirnos a todo lo que no entendemos?" +++
++++
+date = "2015-08-16T19:00:22-05:00"
+title = "El sistema nos odia"
+medio = "El Universal"
+sinopsis = "¿Por qué usamos la palabra \"sistema\" para referirnos a todo lo que no entendemos?"
++++
 
-El sistema nos odia
-Emilio Lezama
 
 “Se nos cayó el sistema”
 -Anónimo
@@ -19,4 +22,6 @@ El concepto ademas cumple una función social importante: la excusa o la auto-ju
 El filósofo Bruno Latour sugiere que los seres humanos tendemos a olvidar que los sistemas suelen poseer redes mucho más extensas y complejas de lo que creemos. Algunas veces los sistemas que asumimos no son ajenos en realidad nos incluyen. Para explicarlo Latour usa el ejemplo del trasbordador Columbia. Cuando el Columbia cayó en 2002 no fue por una falla técnica sino por una burocrática. “Uno pensaba que el transbordador Columbia era un objeto listo para volar y de pronto, tras la dramática explosión de 2002, uno se da cuenta que necesitaba a la NASA y su complejo sistema organizacional para volar seguro en el aire … la acción de volar este objeto ha sido redistribuida a través de una red compuesta en la cual las rutinas burocráticas son tan importantes como las ecuaciones y la resistencia del material.” 
 
 Cuando en México hacemos alusión al sistema es generalmente para expresar resignación ante una fuerza mayor e incomprensible. El “sistema” es el mal necesario que nos permite el confort de no tener que ser exitosos sin tampoco parecer apáticos. Pero al invocarlo con tanta vehemencia acabamos inconscientemente formando parte de él y el problema del sistema se vuelve un círculo vicioso. Si el sistema nunca funciona ¿por que nadie lo repara? Porque quienes lo podrían reparar creen que no son parte de él. Esa es la gran tragedia del sistema mexicano, vemos las naves y los transbordadores explotar alrededor de nosotros pero nunca relacionamos nuestras acciones con ello.
+
+
 
