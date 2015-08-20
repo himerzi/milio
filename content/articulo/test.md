@@ -1,7 +1,7 @@
 +++
-date = "2015-06-16T19:00:22-05:00"
+date = "2015-08-16T19:00:22-05:00"
 draft = false
-title = "Titulo"
+title = "reciente"
 medio = "El Universal"
 sinopsis = "Obtuve mi licenciatura en Ciencias Políticas en la UNAM con un certificado del Programa Internacional de Sciences Po París."
 +++
