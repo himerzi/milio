@@ -1,6 +1,8 @@
-+++ date = "2015-02-21T19:00:22-05:00" 
++++
+date = "2015-02-21T19:00:22-05:00" 
 title = "La clase divina = "El Universal" 
-sinopsis = "¿Quién gobierna en México?" +++
+sinopsis = "¿Quién gobierna en México?"
++++
 
 Ulises Ruiz nunca aspiró a ser un ideólogo ni profeta, pero la historia tiene maneras macabras de instituirse.  Cuando en 2006 declaró que “solo Dios pone y quita autoridades”, el entonces gobernador estaba sentando la doctrina que ha conducido al gobierno mexicano en los últimos dos sexenios.
 
