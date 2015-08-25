@@ -1,6 +1,7 @@
 +++
 date = "2015-02-21T19:00:22-05:00" 
-title = "La clase divina = "El Universal" 
+title = "La clase divina"
+medio = "El Universal" 
 sinopsis = "¿Quién gobierna en México?"
 +++
 
