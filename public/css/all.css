@@ -1,6 +1,7 @@
 .menu a {
     font-size: 14px;
     font-weight: 700 !important;
+    font-family: 'Playfair Display', serif;
     text-transform: uppercase !important;
 }
 .hidden.menu {
