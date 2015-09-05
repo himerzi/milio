@@ -27,7 +27,7 @@ h2.subtitle {
     font-size: 72px;
     font-weight: 700;
     letter-spacing: 0.05em;
-    border: white solid 10px;
+    border: none;
 }
 .masthead h2 {
     font-size: 1.7em;
